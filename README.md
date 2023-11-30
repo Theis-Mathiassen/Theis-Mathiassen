@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theis-mathiassen&hide=stars,issues&count_private=true&show_icons=true&theme=github_dark&border_color=30363d)](https://github.com/theis-mathiassen)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theis-mathiassen&hide=php&langs_count=6&layout=compact&theme=github_dark&border_color=30363d)](https://github.com/theis-mathiassen)
+![](https://github-readme-streak-stats.herokuapp.com/?user=theis-mathiassen&theme=github_dark&hide_border=false)<br/>
 
 
